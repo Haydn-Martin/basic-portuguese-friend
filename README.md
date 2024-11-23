@@ -3,9 +3,9 @@ A basic script to perform basic (and bad) voice chat in Portuguese.
 
 A basic conversation bot that allows you to practice Portuguese by
 listening to an input and responding coherently. Simply run the script
-and start talking:
+and start talking. Here's what to expect:
 
-[basic_convo_demo_audio.mp4](https://github.com/Haydn-Martin/basic-portuguese-friend/blob/main/basic_convo_demo_audio.mp4)
+![basic_convo_demo_audio.mp4](https://github.com/Haydn-Martin/basic-portuguese-friend/blob/main/basic_convo_demo_audio.mp4)
 
 Using:
 
