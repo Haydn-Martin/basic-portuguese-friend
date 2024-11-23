@@ -22,7 +22,8 @@ experimented with it extensively. Major problems are:
 - Voice detection too basic
 
 This type of tool should be usable either right now by using paid
-tools such as ... or in the near-future (I'm talking 2025) locally
+tools such as [elevenlabs](https://elevenlabs.io/text-to-speech) or [CartesiaAI](https://cartesia.ai/sonic),
+or in the near-future (I'm talking 2025) locally
 for very low cost using simple APIs and open source libraries.
 
 I may re-visit this repo again when this is the case.
