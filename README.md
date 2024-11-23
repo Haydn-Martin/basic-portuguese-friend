@@ -5,7 +5,7 @@ A basic conversation bot that allows you to practice Portuguese by
 listening to an input and responding coherently. Simply run the script
 and start talking:
 
-[basic_convo_demo_audio.mp4](basic_convo_demo_audio.mp4)
+[basic_convo_demo_audio.mp4](https://github.com/Haydn-Martin/basic-portuguese-friend/blob/main/basic_convo_demo_audio.mp4)
 
 Using:
 
